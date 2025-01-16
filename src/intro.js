@@ -23,3 +23,9 @@ export function factorial(n) {
   export function funcSayHello(name) {
     return `Hello, ${name}`;
   }
+
+  // Function to say goodbye to a given name
+
+  export function funcSayGoodbye(name) {
+    return `Goodbye, ${name}`;
+  }
